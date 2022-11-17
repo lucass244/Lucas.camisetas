@@ -19,3 +19,12 @@ Loja de camisetas
 
 
 ![Image](https://user-images.githubusercontent.com/113630339/202521794-f7dc8252-dd88-4460-8d66-ba93aa645e87.png)
+
+
+
+
+
+camisa Real Madrid R$150,00
+
+
+![Image](https://user-images.githubusercontent.com/113630339/202521582-85431dac-75bd-43b3-84df-2447d3c01fb0.png)
